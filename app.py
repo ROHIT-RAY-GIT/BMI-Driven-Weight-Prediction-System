@@ -83,7 +83,7 @@ st.markdown("<h3 style='text-align: center;'>This Machine Learning Model estimat
 
 # User input
 gender = st.selectbox("Select your Gender", options=["Male", "Female"])
-height_input = st.number_input("Enter your height in feet and inches (e.g., 5.5 for 5 feet 6 inches):", format="%.2f")
+height_input = st.number_input("Enter your height in feet and inches (e.g., 5.5 for 5 feet 5 inches):", format="%.2f")
 
 # Convert height from feet and inches to cm
 if height_input > 0:
