@@ -69,7 +69,7 @@ I created an interactive **Streamlit Dashboard** for users to input their height
 
 You can interact with the **Weight Prediction App** directly via the Streamlit dashboard:
 
-[Click here to check out the Streamlit Dashboard!](https://share.streamlit.io/your-streamlit-app-link)
+[Click here to check out the Streamlit Dashboard!](https://bmi-driven-weight-prediction-system.streamlit.app/)
 
 The app allows users to input their height and gender to predict their weight using Linear Regression models trained separately for males and females.
 
