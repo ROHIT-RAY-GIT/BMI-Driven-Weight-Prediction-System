@@ -66,7 +66,6 @@ These models can be loaded for making new predictions without retraining.
 ## 📊 Streamlit Dashboard
 
 I created an interactive **Streamlit Dashboard** for users to input their height and gender and get a predicted weight. The dashboard also provides a BMI calculation based on the height and predicted weight.
-## Streamlit Dashboard
 
 You can interact with the **Weight Prediction App** directly via the Streamlit dashboard:
 
