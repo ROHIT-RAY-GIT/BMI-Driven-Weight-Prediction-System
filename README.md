@@ -1,4 +1,4 @@
-# 📊 Weight Prediction Project Using Linear Regression
+# 📊 BMI-Driven-Weight-Prediction-System
 
 This project aims to predict the **weight** of individuals based on their **height** and **gender** using **Linear Regression** models. The dataset used for this project contains height and weight data, split by gender into male and female groups. Two separate models were created for **male** and **female** weight prediction, ensuring better accuracy for both groups.
 
